@@ -1,0 +1,24 @@
+GIT INSTRODUCCIÓN
+
+GIT es un sistema de control de versiones 
+¿Para qué sirve? --> Recuperar versiones específicas más adelante. 
+
+EJERCIOS DE INICIO:
+
+1° PASO:Crear DIRECTORIO DE TRABAJO (donde estan nuestros archivos)
+
+2° PASO: Inicializar un repositorio de GIT
+         comando: "git init"
+¿Qué realiza? Crea: Area "STAGING" y un REPOSITORIO LOCAL   
+
+Staging: Dónde se guarda temporalmente nuestro archivo.
+Repositorio local: Base de datos historicos del proyecto. 
+
+3° PASO: Agregamos archivos al area de staging. 
+        comando: "git add nombre_archivo" o "git add." 
+
+4° PASO:Enviamos nuestro archivo al repositorio local. 
+        comando: "git commit -m" 
+
+5° PASO: Enviar los cambios al servidor remoto. 
+        comando: "git push"

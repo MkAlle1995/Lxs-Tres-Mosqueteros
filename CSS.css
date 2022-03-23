@@ -1,0 +1,27 @@
+CSS
+
+selector { propiedad: valor;}
+
+h1 { color:black;}
+
+SELECTOR UNIVERSAL: 
+*{Propiedad:valor;}
+SELECTOR DE TIPO (O ETIQUETA): 
+etiqueta {propiedad: valor;}
+SELECTOR DE CLASE:
+.nombreClase {propiedad:valor;}
+SELECTOR POR ID:
+#nombreID {propiedad: valor;}
+SELECTOR POR ATRIBUTO:
+[nombreAtributo="valor"] {propiedad: valor;}
+SELECTOR POR DESENDIENTE:
+elemento1 > elemento2 {propiedad: valor;}
+SELECTOR POR PSEUDO-CLASE: 
+
+
+
+
+
+
+
+
